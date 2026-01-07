@@ -82,7 +82,7 @@ This follows a **parameter-efficient fine-tuning (PEFT)** approach, allowing rap
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/lora-assemble.git
+git clone https://github.com/arman1o1/lora-assemble.git
 cd lora-assemble
 ```
 
